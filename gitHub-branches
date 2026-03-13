@@ -1,0 +1,5 @@
+theia@theia-dulceirinalo:/home/project/mcino-Introduction-to-G
+it-and-GitHub$ git branch -vv
+* bug-fix-revert 51c95c0 [origin/bug-fix-revert] Revert "Actualizando archivo README"
+  bug-fix-typo   9ca99e4 [origin/bug-fix-typo] Actualizando archivo README
+  main           9ca99e4 [origin/main: ahead 1] Actualizando archivo README
